@@ -75,7 +75,8 @@ Use Case Diagrams are visual representations of interactions between users (acto
 
 **Booking System Use Case Diagram:**  
 
-![Use Case Diagram](./assets/alx-booking-uc.png)
+![Use Case Diagram](./alx-booking-uc.png)
+
  
 
 ---
